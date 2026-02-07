@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "メイク・イット・ワーク",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T15:08:13.200797Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Make It Work",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Make_It_Work_Ne-Yo.txt"
+    }
+  ]
+}
